@@ -1,0 +1,28 @@
+.frozen-yoghurt-builder {
+  .topping-categories {
+    display: flex;
+    .topping-category {
+      flex: 1;
+      margin: 5px;
+      .topping-grid {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -5px 0 -5px;
+        .topping {
+          flex: 1 0 100px;
+          padding: 5px;
+          margin: 5px;
+          background: #eee;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          &.is-active {
+              background: #3273dc;
+              color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
