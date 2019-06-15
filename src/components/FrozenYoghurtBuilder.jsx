@@ -49,6 +49,11 @@ export const FrozenYoghurtBuilder = () => {
                     </div>
                 </div>
             </div>
+            <div className="columns">
+                <div className="column is-flex">
+                    <button className="button">Enviar</button>
+                </div>
+            </div>
         </div>
     );
 }
