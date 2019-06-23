@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frozen-yoghurt/static/css/main.13ecea59.chunk.css",
+    "main.js": "/frozen-yoghurt/static/js/main.f4a092f8.chunk.js",
+    "main.js.map": "/frozen-yoghurt/static/js/main.f4a092f8.chunk.js.map",
+    "runtime~main.js": "/frozen-yoghurt/static/js/runtime~main.65cab081.js",
+    "runtime~main.js.map": "/frozen-yoghurt/static/js/runtime~main.65cab081.js.map",
+    "static/css/2.62908225.chunk.css": "/frozen-yoghurt/static/css/2.62908225.chunk.css",
+    "static/js/2.06fc48ab.chunk.js": "/frozen-yoghurt/static/js/2.06fc48ab.chunk.js",
+    "static/js/2.06fc48ab.chunk.js.map": "/frozen-yoghurt/static/js/2.06fc48ab.chunk.js.map",
+    "index.html": "/frozen-yoghurt/index.html",
+    "precache-manifest.54ffdd5b736b2ccb75383d69789ff118.js": "/frozen-yoghurt/precache-manifest.54ffdd5b736b2ccb75383d69789ff118.js",
+    "service-worker.js": "/frozen-yoghurt/service-worker.js",
+    "static/css/2.62908225.chunk.css.map": "/frozen-yoghurt/static/css/2.62908225.chunk.css.map",
+    "static/css/main.13ecea59.chunk.css.map": "/frozen-yoghurt/static/css/main.13ecea59.chunk.css.map"
+  }
+}
