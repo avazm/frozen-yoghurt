@@ -1,4 +1,10 @@
 .app {}
-section.builder {
+section {
     padding: 100px;
+}
+section.jumbo {
+    text-align: center;
+}
+section.builder {
+    background: #FF9999;
 }

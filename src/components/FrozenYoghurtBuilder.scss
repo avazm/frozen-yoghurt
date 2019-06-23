@@ -1,6 +1,20 @@
 .frozen-yoghurt-builder {
+  .menu-list a {
+    background: #fff;
+    margin: 5px 0;
+    border-radius: 2px;
+  }
+  .size-menu {
+    margin: 0 -10px 40px -10px;
+    display: flex;
+    li {
+      flex: 1;
+      margin: 10px;
+    }
+  }
   .topping-categories {
     display: flex;
+    flex-direction: column;
     .topping-category {
       flex: 1;
       margin: 5px;
@@ -9,10 +23,11 @@
         flex-wrap: wrap;
         margin: 0 -5px 0 -5px;
         .topping {
-          flex: 1 0 100px;
-          padding: 5px;
+          flex: 1;
+          padding: 10px;
           margin: 5px;
-          background: #eee;
+          background: #fff;
+          border-radius: 2px;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -24,5 +39,9 @@
         }
       }
     }
+  }
+  .actions {
+    display: flex;
+    justify-content: center;  
   }
 }
